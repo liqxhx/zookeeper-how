@@ -13,7 +13,7 @@
         <slf4j>1.7.2</slf4j>
         <logback>1.0.7</logback>
         <common.lang.version>2.6</common.lang.version>
-        <zookeeper>3.4.5</zookeeper>
+        <zookeeper>3.4.6</zookeeper>
         <jmxtools>1.2.1</jmxtools>
         <zkclient>0.5</zkclient>
         <curator>2.8.0</curator>
